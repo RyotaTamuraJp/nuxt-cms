@@ -24,7 +24,6 @@ yarn install
 # Usage
 
 ```
-cd nuxt-cms
 yarn dev
 ```
 
