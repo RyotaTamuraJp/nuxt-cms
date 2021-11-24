@@ -13,10 +13,11 @@ I have already implemented the following features.
 - node (checked v16.9.1)
 
 # Installation
+Download this repository. [download](https://github.com/uracil630/nuxt-cms/archive/refs/heads/main.zip)
 
 ```
-git clone https://github.com/uracil630/nuxt-cms.git
-cd nuxt-cms
+unzip nuxt-cms-main.zip
+cd nuxt-cms-main
 yarn install
 ```
 
